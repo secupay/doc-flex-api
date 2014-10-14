@@ -6,7 +6,7 @@ doc-flex-api
 | [secupay API-flexv2.pdf](docs/secupay API-flexv2.pdf) | german API description
 | [flexv2_en_man.pdf](docs/flexv2_en_man.pdf) | english API description
 
-# The secupay Flex API (flex.API) for processing online payments
+## The secupay Flex API (flex.API) for processing online payments
 
 The secupay Flex API, subsequent named flex.API, is roughly a REST Interface. Therefor its fairly easy to use via https requests.
 The hostname of the api is api.secupay.ag, the protocol is https, which leads to the following base url for request:
@@ -19,5 +19,5 @@ Additionally no transactions are getting charged and there is no cost for any re
 
 https://api-dist.secupay-ag.de
 
-# API key
+## API key
 [Please contact the secupay Customer Service for an API key.] (https://www.secupay.ag/integrationscenter)
