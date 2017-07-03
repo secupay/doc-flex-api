@@ -21,3 +21,6 @@ https://api-dist.secupay-ag.de
 
 ## API key
 [Please contact the secupay Customer Service for an API key.] (https://www.secupay.ag/integrationscenter)
+
+## Payment state diagram
+![payment state diagram](https://www.lucidchart.com/publicSegments/view/1365d9d7-41b8-4ab9-8c9a-65c4eb8d9c64/image.png)
