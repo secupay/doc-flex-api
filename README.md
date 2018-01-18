@@ -26,7 +26,7 @@ https://api-dist.secupay-ag.de
 ![payment state diagram](https://www.lucidchart.com/publicSegments/view/1365d9d7-41b8-4ab9-8c9a-65c4eb8d9c64/image.png)
 
 ### Prepay
-![prepay state diagram](https://www.lucidchart.com/publicSegments/view/833667a7-1db6-434d-be42-d8ebd8f9d480/image.png)
+![prepay state diagram](https://www.lucidchart.com/publicSegments/view/833667a7-1db6-434d-be42-d8ebd8f9d480/image.png?v=1)
 
 ### Debit
-![debit state diagram](https://www.lucidchart.com/publicSegments/view/c85da5c0-9b84-4795-a3d3-478eb3468de6/image.png)
+![debit state diagram](https://www.lucidchart.com/publicSegments/view/c85da5c0-9b84-4795-a3d3-478eb3468de6/image.png?v=1)
