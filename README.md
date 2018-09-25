@@ -23,7 +23,7 @@ https://api-dist.secupay-ag.de
 [Please contact the secupay Customer Service for an API key.] (https://www.secupay.ag/integrationscenter)
 
 ## Payment state diagram
-![payment state diagram](https://www.lucidchart.com/publicSegments/view/759e9572-ad66-414f-9ad6-e1576f2b2e76/image.png)
+![payment state diagram](https://www.lucidchart.com/publicSegments/view/f4de3bd6-e2ea-4b91-9706-00cfb7e9302d/image.png)
 
 ### Prepay
 ![prepay state diagram](https://www.lucidchart.com/publicSegments/view/a5d6e9c0-0b49-409e-b7cf-6efb71425357/image.png)
