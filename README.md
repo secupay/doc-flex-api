@@ -3,7 +3,7 @@ doc-flex-api
 
 | Document | Description
 | ----- | ------
-| [secupay API-flexv2_de.pdf](docs/secupay API-flexv2_de.pdf) | german API description
+| [Flex 2.0 API Payment Schnittstelle-2018-12-17.pdf](docs/Flex 2.0 API Payment Schnittstelle-2018-12-17.pdf) | german API description
 | [secupay API-flexv2_en.pdf](docs/secupay API-flexv2_en.pdf) | english API description
 
 ## The secupay Flex API (flex.API) for processing online payments
